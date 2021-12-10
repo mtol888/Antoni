@@ -1,0 +1,24 @@
+.input-field{
+    width: 400px;
+    height: 40px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #777;
+    border-radius: 14px;
+	background-color: #ffffe0
+}
+
+.textarea-field{
+    height: 150px;
+    padding-top: 10px;
+	
+	.uploadLabel {
+  border: 1px solid #ccc;
+  display: inline-block;
+  padding: 7px 15px;
+  cursor: pointer;
+  border-radius: 5px;
+  background-color: blue;
+  color: #ffffff;
+}
